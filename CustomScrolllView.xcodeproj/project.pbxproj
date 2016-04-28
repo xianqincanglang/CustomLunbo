@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A7AB57861CD2AAB600CCFD0C /* result.gif in Resources */ = {isa = PBXBuildFile; fileRef = A7AB57851CD2AAB500CCFD0C /* result.gif */; };
 		A7E64C841CD0684E00F570C7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = A7E64C831CD0684E00F570C7 /* main.m */; };
 		A7E64C871CD0684E00F570C7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = A7E64C861CD0684E00F570C7 /* AppDelegate.m */; };
 		A7E64C8A1CD0684E00F570C7 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A7E64C891CD0684E00F570C7 /* ViewController.m */; };
@@ -42,6 +43,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		A7AB57851CD2AAB500CCFD0C /* result.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = result.gif; sourceTree = "<group>"; };
 		A7E64C7F1CD0684E00F570C7 /* CustomScrolllView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CustomScrolllView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A7E64C831CD0684E00F570C7 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		A7E64C851CD0684E00F570C7 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -142,6 +144,7 @@
 		A7E64C821CD0684E00F570C7 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				A7AB57851CD2AAB500CCFD0C /* result.gif */,
 				A7E64C831CD0684E00F570C7 /* main.m */,
 			);
 			name = "Supporting Files";
@@ -273,6 +276,7 @@
 				A7E64CBF1CD06A3D00F570C7 /* 1.jpg in Resources */,
 				A7E64C8D1CD0684E00F570C7 /* Main.storyboard in Resources */,
 				A7E64CBE1CD06A3D00F570C7 /* 0.jpg in Resources */,
+				A7AB57861CD2AAB600CCFD0C /* result.gif in Resources */,
 				A7E64CBB1CD06A3500F570C7 /* 3.jpg in Resources */,
 				A7E64CBA1CD06A3500F570C7 /* 2.jpg in Resources */,
 			);
@@ -544,6 +548,7 @@
 				A7E64CAE1CD0684F00F570C7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A7E64CAF1CD0684F00F570C7 /* Build configuration list for PBXNativeTarget "CustomScrolllViewTests" */ = {
 			isa = XCConfigurationList;
@@ -552,6 +557,7 @@
 				A7E64CB11CD0684F00F570C7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A7E64CB21CD0684F00F570C7 /* Build configuration list for PBXNativeTarget "CustomScrolllViewUITests" */ = {
 			isa = XCConfigurationList;
@@ -560,6 +566,7 @@
 				A7E64CB41CD0684F00F570C7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
