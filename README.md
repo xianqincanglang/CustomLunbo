@@ -15,4 +15,4 @@ iOS当中的轮播
 ```
 
 ### 效果图如下:
-![](./CustomScrollView/result.gif)
+![](https://github.com/xianqincanglang/CustomLunbo/blob/master/CustomScrolllView/result.gif)
