@@ -1,6 +1,6 @@
 # CustomLunbo
 iOS当中的轮播
-### 一行代码实现无线轮播
+### 一行代码实现无限轮播
 在ViewController中调用如下：
 
 ```
